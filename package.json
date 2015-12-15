@@ -11,5 +11,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ReneHollander/megabakery-mixer/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.0.6"
   }
 }
